@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="container">
       <img src="/logo.png" alt="RevStream AI Logo" className="logo" />
-      <h1>Innovative AI Solutions for Business</h1>
-      <p>Transform your outbound process into a fully automated pipeline.<br/>Cold leads. Warm replies. Hot results.</p>
+      <h1>Hijack Revenue with AI.</h1>
+      <p>We don’t generate leads. We take them.<br/>Outreach that invades. AI that converts. Parasite-level dominance.</p>
       <div className="buttons">
         <a href="https://calendly.com/ryan-revstreamai/ai-lead-engine-demo" target="_blank" rel="noopener noreferrer">
           <button>Book a Demo</button>
